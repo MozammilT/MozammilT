@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MozammilT
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 📫 You can Reach me in Instagram @mozammil.ig
+- 📫 You can Reach me on Instagram @mozammil.ig
 - 😄 Pronouns: He
 - ⚡ Fun fact: Anything that can be imgined can be coded as well
 
