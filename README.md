@@ -11,7 +11,7 @@
 
 - 💻 I love building modern web apps using **MongoDB | Express | React | PostgreSQL**
 - 🌱 Currently exploring **Next.js**, **Zustand**, and deepening my knowledge of **MongoDB**
-- 🚧 Actively working on: [`Serenova`](https://github.com/yourusername/serenova) – a hotel booking web app
+- 🚧 Actively working on: [`ThoughtNest`](https://github.com/MozammilT/thoughtNest) – a hotel booking web app
 - 💬 Ask me about **fullstack projects**, **state management**, or anything **React**
 - ✨ Fun fact: Anything that can be imgined can be coded as well
 
